@@ -31,13 +31,23 @@ _Note: To execute commands like the one mentioned above, first press_ **Cmd + K*
 
 ## Window Management
 
-- **Split Windows**: Cmd+Option+Right/Left
-- **Toggle Windows**: Cmd+Option+Right/Left
+- > **Toggle Windows** : Cmd + Option + Right/Left
+- > **Split Window to right** : Cmd + \
+- > **Close Window** : Cmd + W
+
+---
 
 ## File Operations
 
-- **New File**: Cmd+N 
-- **Open File**: Cmd+O 
-- **Save File**: Cmd+S 
-- **Save As**: Cmd+Shift+S 
+- > **New File**: Cmd + N 
+- > **Open File**: Cmd + O 
+- > **Save File**: Cmd + S 
+
+---
+
+## Integrated Terminal
+
+- > **Toggle Terminal Visibility** - Ctrl + `
+
+---
 
