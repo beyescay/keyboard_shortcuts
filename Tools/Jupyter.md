@@ -1,19 +1,20 @@
-# Visual Studio Code Keyboard Shortcuts (MAC Version)
+# Jupyter Keyboard Shortcuts (MAC Version)
 
-A quick reference guide for keyboard shortcuts in Visual Studio Code for Mac, organized by categories.  
+A quick reference guide for keyboard shortcuts for Jupyter Notebook commands for Mac, organized by categories.  
   
 ## Table of Contents
 
-- [Keyboard Mapping](#accessing-keyboard-mappings)
+- [Basics](#accessing-keyboard-mappings)
 - [Sidebar](#sidebar)
 - [Window Management](#window-management)
 - [Navigation](#navigation)
 - [File Operations](#file-operations)
 
 ---
-## Keyboard Mappings
+## Basics
 
-- > **Open Keyboard Mappings** - Cmd + K Cmd + S
+- > **Start jupyter notebook on local browser** - jupyter notebook
+- > **Start jupyter lab on local browser** - jupyter lab
 
 _Note: To execute commands like the one mentioned above, first press_ **Cmd + K** _and release the keys. Next, press_ **Cmd + S**.
 
