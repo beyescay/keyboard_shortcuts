@@ -8,5 +8,5 @@ To explore the keyboard shortcut guide for a specific tool or editor, simply cli
 - [Visual Studio Code](Editors/VSCode.md)
 
 ## Tools
-- [ITerm](Tools/Git.md)
+- [ITerm](Tools/ITerm.md)
 - [Jupyter](Tools/Jupyter.md)
